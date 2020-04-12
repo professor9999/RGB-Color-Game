@@ -1,0 +1,51 @@
+body {
+    background: rgba(153, 153, 153, 0.692);
+}
+
+.title1 {
+    color: blue;
+    text-align: center;
+    border: 3px solid green;
+    width: 65%;
+    padding: 1.66%;
+    margin: auto;
+    padding-bottom: 4%;
+    font-size: 30px;
+}
+
+.title2 {
+    color: #1a53ff;
+    text-align: center;
+    border: 3px solid green;
+    width: 65%;
+    padding: 1.66%;
+    margin: auto;
+    padding-bottom: 4%;
+    font-size: 22px;
+}
+
+.select {
+    width: 30%;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+}
+
+#big {
+    max-width: 600px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+#try {
+    text-align: center;
+    padding: 47%;
+    margin: auto;
+}
+
+.display2 {
+    text-align: center;
+    background: rgb(92, 92, 114);
+    padding: 2%;
+    max-width: 100px;
+}
